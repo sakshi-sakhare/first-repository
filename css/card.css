@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#card{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(214, 190, 190);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#box{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(117, 210, 238);
+    border-radius: 10px;
+    position: relative;
+}
+#pic
+{
+    height: 40%;
+    width: 97%;
+    object-fit: cover;
+    padding: 3px;
+    overflow: hidden;
+    
+
+}
+#pic img{
+    height: 100%;
+    width: 100%;
+    
+    border: 1px solid black;
+    border-radius: 10px;
+    
+ 
+}
