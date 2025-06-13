@@ -18,6 +18,7 @@
     background-color: rgb(117, 210, 238);
     border-radius: 10px;
     position: relative;
+    object-fit: cover;
 }
 #pic
 {
